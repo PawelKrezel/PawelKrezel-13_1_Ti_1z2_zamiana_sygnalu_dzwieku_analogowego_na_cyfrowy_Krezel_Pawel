@@ -1,0 +1,17 @@
+body
+{
+	text-align: center;
+}
+a
+{
+	color:teal;
+	text-decoration: none;
+}
+a:hover
+{
+	color:#06376C;
+}
+a:visited
+{
+	color: purple;
+}
