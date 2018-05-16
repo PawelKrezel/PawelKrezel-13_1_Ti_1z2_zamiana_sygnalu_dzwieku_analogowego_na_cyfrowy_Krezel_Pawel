@@ -1,0 +1,1 @@
+# PawelKrezel-13_1_Ti_1z2_zamiana_sygnalu_dzwieku_analogowego_na_cyfrowy_Krezel_Pawel
